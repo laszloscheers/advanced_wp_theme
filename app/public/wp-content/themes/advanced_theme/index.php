@@ -13,6 +13,6 @@
     <title>Advance Wordpress Theme</title>
 </head>
 <body>
-    
+    Hello people
 </body>
 </html>
