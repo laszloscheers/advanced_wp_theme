@@ -2,17 +2,15 @@
     /**
      * Main Template file.
      * 
-     * @package Advanced_theme
+     * @package advanced_wp_theme
      */
+    get_header();
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advance Wordpress Theme</title>
-</head>
-<body>
-    Hello people
-</body>
-</html>
+
+<div class="div content">
+    Content
+</div>
+
+<?php
+
+get_footer();
